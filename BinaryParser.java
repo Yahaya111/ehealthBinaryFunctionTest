@@ -18,6 +18,7 @@ public class BinaryParser {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+		//Testing git
         Scanner scanner = new Scanner(System.in);
         int acceptInput=1;
         while(acceptInput!=-1){
